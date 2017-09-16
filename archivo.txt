@@ -5,3 +5,7 @@ seria mi segujndo commit espero que este nien ved
 estoy en la rama experimental
 
 estoy en la ramita master 
+
+estoy en la ramita conflicto 
+
+Fix conflicto manual
